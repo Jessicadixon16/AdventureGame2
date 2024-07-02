@@ -1,0 +1,38 @@
+1
+Desert Crossroads
+You stand in the middle of the desert, lost and hot. To the South, you can see the desecrated remains of stone structures.
+You see animal tracks to the West, and a small stream to the East. The reflection of water can be seen to the North.
+Stick
+6,3,2,4
+~
+2
+Oasis Stream
+A small stream seems to be heading North, but a massive boulder is blocking the way.
+Rusty Sword
+0,0,0,1
+~
+3
+Old Outpost
+Weathered structures and a destroyed well lie covered in sand.
+None
+1,0,0,0
+~
+4
+Animal Tracks
+While exploring, you come across several small animal tracks in the sand. They appear to be heading North.
+None
+5,0,1,0
+~
+5
+Large Rock
+You come across a large rock at the top of a sand dune. A group of small meerkats sit on top of the rock, curiously gazing at you.
+The reflection of water can be seen to the East.
+None
+0,4,6,0
+~
+6
+Vibrant Oasis
+You arrive at a small pool of water with nearby palm trees swaying in the wind.
+A large rock can be seen in the distance to the West.
+Banana
+0,1,0,5

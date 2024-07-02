@@ -1,0 +1,11 @@
+Stick
+A thin piece of wood.
+~
+Banana
+A yellow fruit.
+~
+Rusty Sword
+A usual sword with a weathered blade
+~
+Old Skull
+A skull that seems to have been here for a long time.
